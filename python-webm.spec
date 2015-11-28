@@ -6,7 +6,7 @@ Summary:	Python interface to the Google WebM video/image codec
 Summary(pl.UTF-8):	Interfejs Pythona do kodeka wideo/obrazu Google WebM
 Name:		python-webm
 Version:	0.2.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	http://xpra.org/src/%{name}-%{version}.tar.xz
